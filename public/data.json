@@ -5,9 +5,9 @@
 	"draws": 3,
 	"id": 1,
 	"interest": "08%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$11,000,000",
-	"ruleMatch": "08/12",
+	"ruleMatch": "12",
 	"term": "12 Months"
 }, {
 	"amount": "$35,000,000",
@@ -15,9 +15,9 @@
 	"draws": 4,
 	"id": 2,
 	"interest": "11%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$21,000,00",
-	"ruleMatch": "07/12",
+	"ruleMatch": "12",
 	"term": "36 Months"
 }, {
 	"amount": "$20,000,000",
@@ -25,9 +25,9 @@
 	"draws": 2,
 	"id": 3,
 	"interest": "10%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$30,000",
-	"ruleMatch": "08/12",
+	"ruleMatch": "12",
 	"term": "18 Months"
 }, {
 	"amount": "$1,000,000",
@@ -35,9 +35,9 @@
 	"draws": 3,
 	"id": 4,
 	"interest": "11%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$11,000,000",
-	"ruleMatch": "09/12",
+	"ruleMatch": "12",
 	"term": "20 Months"
 }, {
 	"amount": "$39,000,000",
@@ -45,9 +45,9 @@
 	"draws": 5,
 	"id": 5,
 	"interest": "08%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$12,000,000",
-	"ruleMatch": "10/12",
+	"ruleMatch": "10",
 	"term": "24 Months"
 }, {
 	"amount": "$10,000,000",
@@ -55,9 +55,9 @@
 	"draws": 4,
 	"id": 6,
 	"interest": "09%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$3000,000",
-	"ruleMatch": "06/12",
+	"ruleMatch": "10",
 	"term": "12 Months"
 }, {
 	"amount": "$30,000,000",
@@ -65,9 +65,9 @@
 	"draws": 5,
 	"id": 7,
 	"interest": "11%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$5,000,000",
-	"ruleMatch": "10/12",
+	"ruleMatch": "3",
 	"term": "36 Months"
 },
 {
@@ -76,9 +76,9 @@
 	"draws": 3,
 	"id": 8,
 	"interest": "08%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$11,000,000",
-	"ruleMatch": "08/12",
+	"ruleMatch": "10",
 	"term": "12 Months"
 }, {
 	"amount": "$35,000,000",
@@ -86,9 +86,9 @@
 	"draws": 4,
 	"id": 9,
 	"interest": "11%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$21,000,00",
-	"ruleMatch": "07/12",
+	"ruleMatch": "12",
 	"term": "36 Months"
 }, {
 	"amount": "$20,000,000",
@@ -96,9 +96,9 @@
 	"draws": 2,
 	"id": 10,
 	"interest": "10%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$30,000",
-	"ruleMatch": "08/12",
+	"ruleMatch": "2",
 	"term": "18 Months"
 }, {
 	"amount": "$1,000,000",
@@ -106,9 +106,9 @@
 	"draws": 3,
 	"id": 11,
 	"interest": "11%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$11,000,000",
-	"ruleMatch": "09/12",
+	"ruleMatch": "12",
 	"term": "20 Months"
 }, {
 	"amount": "$39,000,000",
@@ -116,9 +116,9 @@
 	"draws": 5,
 	"id": 12,
 	"interest": "08%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$12,000,000",
-	"ruleMatch": "10/12",
+	"ruleMatch": "3",
 	"term": "24 Months"
 }, {
 	"amount": "$10,000,000",
@@ -126,9 +126,9 @@
 	"draws": 4,
 	"id": 13,
 	"interest": "09%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$3000,000",
-	"ruleMatch": "06/12",
+	"ruleMatch": "06",
 	"term": "12 Months"
 }, {
 	"amount": "$30,000,000",
@@ -136,8 +136,8 @@
 	"draws": 5,
 	"id": 14,
 	"interest": "11%",
-	"notes": " ",
+	"notes": "None",
 	"renoBudget": "$5,000,000",
-	"ruleMatch": "10/12",
+	"ruleMatch": "10",
 	"term": "36 Months"
 }]
