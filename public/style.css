@@ -5,4 +5,42 @@
 .trade-title{
       margin-top: 30px;
 }
+/*
+.customradiobutton{
+    border-left: 1px solid #ccc; padding: 2px;
+} 
+*/
+.customlabel{
+    padding-right: 20px;
+    
+}
+li{
+    list-style: none;
+}
+.customheader  {
+    font-weight: 400 !important;
+}
+.list-inline>li{
+    position: relative;
+    padding-right: 7px;
+    padding-left: 7px;
+}
 
+.list-inline li input[type="radio"], .list-inline li select {
+    padding: 0 14px;
+    margin: 0 3px 0 10px;
+    
+}
+.list-inline>li:after {
+    content: "";
+    position: absolute;
+    top: 1px;
+    background: #ccc;
+    right: 0;
+    width: 1px;
+    height: 80%;
+    z-index: 5;
+}
+.list-inline>li:last-child:after{
+  background: transparent;  
+}
