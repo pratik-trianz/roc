@@ -172,6 +172,26 @@ class Trade extends Component {
       <div className="container">
         <div className="trade-title"><h3>LOANS AVAILABLE TO BUY</h3></div>
         <br/>
+        <ul className="list-inline">
+            <li>
+                <label className="customheader">Show Loans:</label>
+                <input type="radio" name="match" checked="checked" onchange="val(this)"/>All
+                <input type="radio" name="match" value="1" onchange="val(this)"/>Match My Preference
+            </li>
+            <li className="customradiobutton"><span><img src="icons/modify.png"/></span>Modify Preference </li>
+            <li>
+              <label className="customradiobutton">Entity:</label>
+                  <select class="form-control" id="sel1">
+                    <option>Wells Fargo</option>
+                    <option>Pimco </option>
+                    <option>Magnetar</option>
+                    <option>LiberMax</option>
+                    <option>Glac</option>
+                  </select>
+            </li>
+            <li className="customradiobutton"><span><img src="icons/filter.png"/></span>Filter</li>
+
+        </ul>
         <ReactDataGrid
           columns={_columns}
           rowGetter={this.rowGetter}
