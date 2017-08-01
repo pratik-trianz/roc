@@ -6,7 +6,7 @@ class Main extends Component {
         return(
             <div>
           <header id="header">
-            <div className="container text-center">
+            <div className="text-center">
                 <div className="menu" >
                     <div id="logo" className="text-center">
                         <a href="#studio"><img src="icons/logo.png" alt="" title="" /></a>
