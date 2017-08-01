@@ -1,0 +1,143 @@
+
+[{
+	"amount": "$20,000,000",
+	"borrowerName": "Smith Harnadez",
+	"draws": 3,
+	"id": 1,
+	"interest": "08%",
+	"notes": " ",
+	"renoBudget": "$11,000,000",
+	"ruleMatch": "08/12",
+	"term": "12 Months"
+}, {
+	"amount": "$35,000,000",
+	"borrowerName": "Gabriel Godwin",
+	"draws": 4,
+	"id": 2,
+	"interest": "11%",
+	"notes": " ",
+	"renoBudget": "$21,000,00",
+	"ruleMatch": "07/12",
+	"term": "36 Months"
+}, {
+	"amount": "$20,000,000",
+	"borrowerName": "John White",
+	"draws": 2,
+	"id": 3,
+	"interest": "10%",
+	"notes": " ",
+	"renoBudget": "$30,000",
+	"ruleMatch": "08/12",
+	"term": "18 Months"
+}, {
+	"amount": "$1,000,000",
+	"borrowerName": "Thomas Nicolos",
+	"draws": 3,
+	"id": 4,
+	"interest": "11%",
+	"notes": " ",
+	"renoBudget": "$11,000,000",
+	"ruleMatch": "09/12",
+	"term": "20 Months"
+}, {
+	"amount": "$39,000,000",
+	"borrowerName": "Kevin Peterson",
+	"draws": 5,
+	"id": 5,
+	"interest": "08%",
+	"notes": " ",
+	"renoBudget": "$12,000,000",
+	"ruleMatch": "10/12",
+	"term": "24 Months"
+}, {
+	"amount": "$10,000,000",
+	"borrowerName": "Mathew Haydon",
+	"draws": 4,
+	"id": 6,
+	"interest": "09%",
+	"notes": " ",
+	"renoBudget": "$3000,000",
+	"ruleMatch": "06/12",
+	"term": "12 Months"
+}, {
+	"amount": "$30,000,000",
+	"borrowerName": "Peterson Gai",
+	"draws": 5,
+	"id": 7,
+	"interest": "11%",
+	"notes": " ",
+	"renoBudget": "$5,000,000",
+	"ruleMatch": "10/12",
+	"term": "36 Months"
+},
+{
+	"amount": "$20,000,000",
+	"borrowerName": "Smith Harnadez",
+	"draws": 3,
+	"id": 8,
+	"interest": "08%",
+	"notes": " ",
+	"renoBudget": "$11,000,000",
+	"ruleMatch": "08/12",
+	"term": "12 Months"
+}, {
+	"amount": "$35,000,000",
+	"borrowerName": "Gabriel Godwin",
+	"draws": 4,
+	"id": 9,
+	"interest": "11%",
+	"notes": " ",
+	"renoBudget": "$21,000,00",
+	"ruleMatch": "07/12",
+	"term": "36 Months"
+}, {
+	"amount": "$20,000,000",
+	"borrowerName": "John White",
+	"draws": 2,
+	"id": 10,
+	"interest": "10%",
+	"notes": " ",
+	"renoBudget": "$30,000",
+	"ruleMatch": "08/12",
+	"term": "18 Months"
+}, {
+	"amount": "$1,000,000",
+	"borrowerName": "Thomas Nicolos",
+	"draws": 3,
+	"id": 11,
+	"interest": "11%",
+	"notes": " ",
+	"renoBudget": "$11,000,000",
+	"ruleMatch": "09/12",
+	"term": "20 Months"
+}, {
+	"amount": "$39,000,000",
+	"borrowerName": "Kevin Peterson",
+	"draws": 5,
+	"id": 12,
+	"interest": "08%",
+	"notes": " ",
+	"renoBudget": "$12,000,000",
+	"ruleMatch": "10/12",
+	"term": "24 Months"
+}, {
+	"amount": "$10,000,000",
+	"borrowerName": "Mathew Haydon",
+	"draws": 4,
+	"id": 13,
+	"interest": "09%",
+	"notes": " ",
+	"renoBudget": "$3000,000",
+	"ruleMatch": "06/12",
+	"term": "12 Months"
+}, {
+	"amount": "$30,000,000",
+	"borrowerName": "Peterson Gai",
+	"draws": 5,
+	"id": 14,
+	"interest": "11%",
+	"notes": " ",
+	"renoBudget": "$5,000,000",
+	"ruleMatch": "10/12",
+	"term": "36 Months"
+}]
