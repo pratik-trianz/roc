@@ -31,3 +31,6 @@
 .react-grid-HeaderCell-sortable .pull-right {
     color: #df8d1a !important;
 }
+.react-grid-checkbox:checked+.react-grid-checkbox-label:before {
+    background: #df8d1a !important;
+}
