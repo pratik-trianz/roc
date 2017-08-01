@@ -5,3 +5,29 @@
 .trade-title{
       margin-top: 30px;
 }
+.rule-match{
+    text-align: center;
+    padding: 5px 0;
+}
+.rule-match-success{
+      background: url(images/rule_100.png) no-repeat center;
+}
+.rule-match-warning{
+      background: url(images/rule_50-99.png) no-repeat center;
+}
+.rule-match-error{
+      background: url(images/rule_00-49.png) no-repeat center;
+}
+.radio-custom+.radio-custom-label:before, .react-grid-checkbox+.react-grid-checkbox-label:before{
+      border: 1px solid #df8d1a !important;
+}
+.react-grid-HeaderRow{
+      border-bottom: 1px solid #2199e0;
+      z-index: 99;
+}
+.react-grid-Cell,.react-grid-HeaderCell{
+  text-align: center !important;
+}
+.react-grid-HeaderCell-sortable .pull-right {
+    color: #df8d1a !important;
+}

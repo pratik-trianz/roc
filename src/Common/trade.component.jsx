@@ -8,10 +8,24 @@ const { Toolbar, Data: { Selectors } } = require('react-data-grid-addons');
 // Custom Formatter component
 const RuleFormatter = React.createClass({
 
+  getRuleClass(val) {
+    var rule_class = 'rule-match';
+
+    if(val<4){
+      rule_class += ' rule-match-error';
+    }else if(4<val && val<8){
+      rule_class += ' rule-match-warning';
+    }else if(val>8){
+      rule_class += ' rule-match-success';
+    }
+
+   return rule_class;
+ },
+
   render() {
     const val = this.props.value;
     return (
-      <div className="rule-match">
+      <div className={this.getRuleClass(val)}>
         {val}
       </div>);
   }
