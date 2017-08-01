@@ -156,7 +156,7 @@ class Trade extends Component {
     const { _columns } = this.state
     return (
       <div className="container">
-        <h3>LOANS AVAILABLE TO BUY</h3>
+        <div className="trade-title"><h3>LOANS AVAILABLE TO BUY</h3></div>
         <br/>
         <ReactDataGrid
           columns={_columns}
